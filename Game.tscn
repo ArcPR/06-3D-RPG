@@ -48,3 +48,18 @@ transform = Transform( 5, 0, 0, 0, 5, 0, 0, 0, 5, 0, 0, 0 )
 
 [node name="Target" parent="Target_Container" instance=ExtResource( 4 )]
 transform = Transform( 0.939693, 0, 0.34202, 0, 1, 0, -0.34202, 0, 0.939693, -27, 4, 9 )
+
+[node name="Target2" parent="Target_Container" instance=ExtResource( 4 )]
+transform = Transform( 0.724064, 0, -0.689733, 0, 1, 0, 0.689733, 0, 0.724064, -17.6406, 4, -24.8829 )
+
+[node name="Target3" parent="Target_Container" instance=ExtResource( 4 )]
+transform = Transform( -0.976571, 0, -0.215196, 0, 1, 0, 0.215196, 0, -0.976571, 21.2391, 4, -4.3596 )
+
+[node name="Target4" parent="Target_Container" instance=ExtResource( 4 )]
+transform = Transform( -0.684751, 0, -0.728777, 0, 1, 0, 0.728777, 0, -0.684751, 21.2391, 4, -38.6338 )
+
+[node name="Target5" parent="Target_Container" instance=ExtResource( 4 )]
+transform = Transform( -0.57472, 0, 0.81835, 0, 1, 0, -0.81835, 0, -0.57472, -44.2029, 4, -38.6338 )
+
+[node name="Target6" parent="Target_Container" instance=ExtResource( 4 )]
+transform = Transform( 0.719182, 0, 0.694822, 0, 1, 0, -0.694822, 0, 0.719182, -44.2029, 4, -12.6447 )
