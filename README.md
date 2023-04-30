@@ -1,12 +1,12 @@
 # 06-3D-RPG
 
-3D RPG Project for MSCH-C220.
-
-Includes a player that can shoot a gun in a navigable area, with an enemy, all in a 3D environment in which the player can view from a distant camera perspective.
+3D RPG Project for MSCH-C220. 
 
 ## Implementation
 
-Created in Blender 3.5 and Godot 3.5
+Created in Blender 3.5 and Godot 3.5.
+
+Includes a player that can shoot a gun in a navigable area, with targets to shoot at, all in a 3D environment in which the player can view from a distant camera perspective.
 
 ## References
 
