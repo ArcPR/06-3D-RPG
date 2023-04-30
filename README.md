@@ -6,7 +6,7 @@
 
 Created in Blender 3.5 and Godot 3.5.
 
-Includes a player that can shoot a gun in a navigable area, with targets to shoot at, all in a 3D environment in which the player can view from a distant camera perspective.
+Includes a player that can shoot a gun and move in a navigable terrain area, with targets to shoot at, all in a 3D environment in which the player can view from a distant camera perspective.
 
 ## References
 
