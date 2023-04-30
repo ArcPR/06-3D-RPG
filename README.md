@@ -12,6 +12,8 @@ Created in Blender 3.5 and Godot 3.5
 
 Player Model(s): https://kenney.itch.io/kenney-character-assets
 
+Gun Model and Target: https://kenney.nl/assets/blaster-kit
+
 Nature Scene: https://www.patreon.com/posts/blender-export-16916038
 
 ## Future Development
