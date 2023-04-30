@@ -1,12 +1,18 @@
-# 3D-Character
+# 06-3D-RPG
 
-An animated 3D character that can be used in the 3D-RPG project
-
-Based on the [Kenney Character Assets](https://kenney.itch.io/kenney-character-assets) provided by kenney.nl. The model and animations were compiled in Blender and then imported into Godot.
+3D RPG Project for MSCH-C220.
 
 ## Implementation
 
 Created in Blender 3.5 and Godot 3.5
+
+## References
+
+Player Model(s): https://kenney.itch.io/kenney-character-assets
+
+Nature Scene: https://www.patreon.com/posts/blender-export-16916038
+
+## Future Development
 
 ## Created By
 
